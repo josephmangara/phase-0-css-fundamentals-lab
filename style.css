@@ -3,3 +3,18 @@ body {
   height: 100%;
   margin: 0;
 }
+header {text-align: center;}
+section {text-align: center;
+  font-size:xx-small;
+}
+
+div {display:inline-block;
+  text-align: center;
+  
+}
+div {padding-inline-start: 2.4cm;
+  padding-inline-end: 2.4cm;
+  background-color: rgb(129, 107, 119);
+
+}
+id-details {border-width: 100%;}
